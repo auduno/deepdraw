@@ -1,7 +1,7 @@
 DeepDraw
 ======
 
-![Image generated](http://auduno.github.io/deepdraw/images/samplesize2b.png)
+![Image generated](http://auduno.github.io/deepdraw/images/deepdraw_example_0013.png)
 
 **DeepDraw** is a ipython notebook example of generating class visualizations, such as the one above, from deep neural networks using [Caffe](http://caffe.berkeleyvision.org/). The examples and settings in this notebook was based on the pretrained GoogLeNet model available with Caffe, but it's easy to modify to use other networks, such as AlexNet. For some more detailed information about how these class visualizations are generated, check out [this blogpost]().
 
